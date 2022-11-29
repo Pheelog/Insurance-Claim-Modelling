@@ -1,5 +1,3 @@
-# Intern-Team-18
-
 ## Project Summary
 
 - Predict the claims over the next year for a motor insurance client using personal and vehicle information.
